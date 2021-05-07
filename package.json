@@ -25,7 +25,7 @@
     "json-loader": "^0.5.4",
     "json-schema": "^0.2.3",
     "jsonwebtoken": "^7.1.7",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "memory-fs": "^0.3.0",
     "mocha": "^3.2.0",
     "moment": "^2.14.1",
