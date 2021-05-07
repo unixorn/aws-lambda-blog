@@ -21,7 +21,7 @@
     "inquirer": "^2.0.0",
     "is-there": "^4.3.6",
     "jimp": "^0.2.27",
-    "json": "^9.0.4",
+    "json": "^10.0.0",
     "json-loader": "^0.5.4",
     "json-schema": "^0.2.3",
     "jsonwebtoken": "^7.1.7",
